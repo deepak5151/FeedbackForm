@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FeedbackForm/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/FeedbackForm/static/js/main.2f858ade.chunk.js",
+    "main.js.map": "/FeedbackForm/static/js/main.2f858ade.chunk.js.map",
+    "runtime-main.js": "/FeedbackForm/static/js/runtime-main.3d3bf7f3.js",
+    "runtime-main.js.map": "/FeedbackForm/static/js/runtime-main.3d3bf7f3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/FeedbackForm/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9908d950.chunk.js": "/FeedbackForm/static/js/2.9908d950.chunk.js",
+    "static/js/2.9908d950.chunk.js.map": "/FeedbackForm/static/js/2.9908d950.chunk.js.map",
+    "index.html": "/FeedbackForm/index.html",
+    "precache-manifest.242458388bc4a4cb5823005f9457b11a.js": "/FeedbackForm/precache-manifest.242458388bc4a4cb5823005f9457b11a.js",
+    "service-worker.js": "/FeedbackForm/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/FeedbackForm/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/FeedbackForm/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9908d950.chunk.js.LICENSE.txt": "/FeedbackForm/static/js/2.9908d950.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d3bf7f3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9908d950.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2f858ade.chunk.js"
+  ]
+}
